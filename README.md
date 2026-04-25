@@ -118,4 +118,4 @@ Done — no other changes needed.
 -----
 
 ## Use it for your own projects
-![OptionsLedger](https://raw.githubusercontent.com/MwkosP/OptionsLedger/main/assets/imgs/3d.png)
+![OptionsLedger](https://raw.githubusercontent.com/MwkosP/OptionsLedger/main/assets/imgs/3d.jpeg)
