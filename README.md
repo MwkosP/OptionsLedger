@@ -1,7 +1,7 @@
-# OptionsLedger 📒
+# OptionsLedger 
 
 A fault-tolerant pipeline that fetches crypto options data from multiple providers every hour and stores it as Parquet files in Google Cloud Storage. Built to run unattended for years.
-
+![OptionsLedger](https://raw.githubusercontent.com/MwkosP/OptionsLedger/main/assets/imgs/optionschain.png)
 -----
 
 ## Providers
@@ -114,3 +114,8 @@ Estimated storage at hourly frequency across all providers: **~1.5 GB over 2 yea
 1. Register it in `fetcher.py`
 
 Done — no other changes needed.
+
+-----
+
+## Use it for your own projects
+![OptionsLedger](https://raw.githubusercontent.com/MwkosP/OptionsLedger/main/assets/imgs/3d.png)
