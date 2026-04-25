@@ -1,8 +1,6 @@
 # OptionsLedger 
 
 A fault-tolerant pipeline that fetches crypto options data from multiple providers every hour and stores it as Parquet files in Google Cloud Storage. Built to run unattended for years.
-<br/>
-
 ![OptionsLedger](https://raw.githubusercontent.com/MwkosP/OptionsLedger/main/assets/imgs/optionschain.png)
 -----
 
