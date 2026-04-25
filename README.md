@@ -58,6 +58,11 @@ OptionsHistorical/
 │               ├── deribit_BTC_2026-04-25_00-00.parquet
 │               └── deribit_ETH_2026-04-25_00-00.parquet
 ├── OKX/
+│       └── 04/
+│           └── 25/
+│               ├── okx_BTC_2026-04-25_00-00.parquet
+│               └── okx_ETH_2026-04-25_00-00.parquet
+│
 ├── IBIT/
 ├── Bybit/
 ├── Binance/
